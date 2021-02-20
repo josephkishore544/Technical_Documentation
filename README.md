@@ -28,6 +28,7 @@ github workshop day2
 [github](https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png)  
 
 **Inserting table**
+
 Name|Branch|RollNo
 ---|---|---
 Joseph|CSE|5G2
